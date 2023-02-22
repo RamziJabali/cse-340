@@ -1,7 +1,20 @@
 #include "program1.h"
+#include "util.h"
+#include <iostream>
+#include <list>
+#include <string>
+#include <iterator>
 
+using namespace std;
+
+Util util = *new Util;
 // Loads the grammar.
 void LoadGrammar(char *grammarFileName) {
+    list<string> list = util.getTokensFromString();
+    util.itr = list.begin();
+    for (util.itr; util.itr != list.end(); util.itr++) {
+        cout << *util.itr << endl;
+    }
 }
 
 // Returns a string with some statistics for the grammar.
