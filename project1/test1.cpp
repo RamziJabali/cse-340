@@ -9,8 +9,8 @@ using namespace std;
 	This file will not be submitted, as a different test1.cpp will be used. */
 
 int main(int argv, char **argc) {
-    string temp = "SampleGrammar.txt";
-    char *tab2 = new char[temp.length() + 1];
+    string temp = "ss.txt";
+    char *tab2 = new char[temp.length()];
     strcpy(tab2, temp.c_str());
     LoadGrammar(tab2);
 //    GetStats();

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/14807/Desktop/CSE-340/cmake-build-debug",
-		"source" : "C:/Users/14807/Desktop/CSE-340"
+		"build" : "C:/Users/14807/Documents/code/cse-340/project1/cmake-build-debug",
+		"source" : "C:/Users/14807/Documents/code/cse-340/project1"
 	},
 	"version" : 
 	{

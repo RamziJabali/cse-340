@@ -1,3 +1,3 @@
-C:/Users/14807/Desktop/CSE-340/cmake-build-debug/CMakeFiles/CSE_340.dir
-C:/Users/14807/Desktop/CSE-340/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/14807/Desktop/CSE-340/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/14807/Documents/code/cse-340/project1/cmake-build-debug/CMakeFiles/CSE_340.dir
+C:/Users/14807/Documents/code/cse-340/project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/14807/Documents/code/cse-340/project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
